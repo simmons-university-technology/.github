@@ -1,1 +1,1 @@
-# .github
+# Simmons University Technology
